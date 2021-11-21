@@ -1,0 +1,17 @@
+Timestamp,I have read the Plain Language Statement (or had it read to me),I understand the information provided,I have had an opporitunity to ask questions and discuss this study,I understand the information provided in relation to data protection,I have recieved satisfactory answers to all my questions,I understand that I may withdraw from this study at any point,"I have read and understand the arrangements to be made to protect confidentiality of data, including that confidentiality of information provided is subject to legal limitations",I have read and understand confirmations relating to any other relevant information as indicated in the PLS,I consent to participate in this research study,Did you find the bot easy to use?,What about it was easy to use? (if anything),What about it was difficult to use? (if anything),Were you able to find information on products?,Did the sentiment analysis work for you?,Is there anything you would change about it to improve it?,How would you rate your experience from 1-10?
+04/05/2021 11:16:14,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,In between,Products listing was clear. Easy to find products.,I found the bot confusing at first. This was mostly due to my phone capitalising commands. After I used lower case it was easy enough to use.,Yes,No,"The sentiment analysis was always 98.64% regardless of the product. Even for one with an average rating of 2.5.
+
+Being only able to do sentiment analysis on products with low number of reviews is not ideal. I know this is because of the API but perhaps it could still be optimised.
+
+The UI could probably be more user friendly. Optimizing for mobile devices would also be good.",6
+06/05/2021 00:10:20,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,In between,Simple website. Separation between queries you typed and query output. Help command. Hi command,"I can't seem to be able to select a product using a number. Also when I type ""What is the price"" or ""review product"" I get a list of results instead of information about the selected product. I wasn't able to try out the ""2021 Irish rugby world cup t-shirt"" example because I couldn't select the YINTE product",No,Yes,"If sentiment is for a movie and the movie is about bad events, does the movie get bad sentiment even if it is rated highly?",8
+06/05/2021 13:07:37,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,simple text box to enter info into with a nice frontend design. Nice colours.,"couldnt copy amazon links because the robot image overlayed the text terminal.
+
+No indication of progress when entering a command. Not sure what was happening when i entered sentiment analysis.",Yes,No,"Commands should just be 1 word instead of sentences. Like 'what is the price' should probably just be 'price' but then explain the command better in the help section.
+
+Sentiment analysis should be explained without using 'sentiment analysis' in the help explanation.
+
+Amazon links should be clickable.",8
+06/05/2021 19:50:08,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,In between,"nice and simple interface, not cluttered, nothing to get confused about","typing long instructions was a little annoying, maybe for price instead of ""what is the price"" be able to enter ""price""
+
+wasn't sure if my input had been accepted maybe have a prompt or loading screen",Yes,Yes,maybe have a space on screen where the name of the product you entered is kept to remind the user what they entered,8
