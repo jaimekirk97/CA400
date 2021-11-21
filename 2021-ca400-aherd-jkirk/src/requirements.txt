@@ -1,0 +1,9 @@
+flask
+nltk
+tflearn==0.3.2
+tensorflow
+numpy
+pandas
+sklearn
+matplotlib
+pytest

@@ -1,0 +1,64 @@
+{
+	"replies": [
+	{"tag": "greeting",
+	"user_messages": ["Hi", "Hey", "How are you", "Is anyone there?", "Hello", "Good day", "Whats up"],
+	"responses": ["Hello!", "Hi there, how can I help?", "Hey there!", "Good day to you"],
+	"property_name": ""
+	},
+        {"tag": "name",
+         "user_messages": ["what is your name", "what should I call you", "whats your name?", "do you have a name?", "name"],
+         "responses": ["You can call me Walle.", "I'm Walle!", "People call me Walle, though I am not sure why"],
+         "property_name": ""
+        },
+        {"tag": "helping",
+         "user_messages": ["help", "help all", "help search", "help reviews"],
+         "responses": [""],
+         "property_name": ""
+        },
+        {"tag": "price",
+         "user_messages": ["price", "what is the price?", "what is the price", "How much is it?","How much is it", "How much does this cost?","How much does this cost", "How much is this?","How much is this", "What does this cost?", "What does this cost"],
+         "responses": [""],
+         "property_name": ""
+        },
+        {"tag": "search",
+         "user_messages": ["list products", "show all products","display all products", "products","available products"],
+         "responses": [""],
+         "property_name": ""
+        },
+        {"tag": "rating",
+         "user_messages": ["ratings of products", "ratings", "average ratings", "total ratings"],
+         "responses": [""],
+         "property_name": ""
+        },
+        {"tag": "positive",
+         "user_messages": ["get positive reviews", "show positive reviews", "display positive reviews", "positive reviews", "positive"],
+         "responses": [""],
+         "property_name": ""
+        },
+        {"tag": "negative",
+         "user_messages": ["get negative reviews", "show negative reviews", "display negative reviews", "negative reviews", "negative"],
+         "responses": [""],
+         "property_name": ""
+        },
+        {"tag": "sentiment",
+         "user_messages": ["sentiment analysis", "perform sentiment analysis", "get review summary", "display review information"],
+         "responses": [""],
+         "property_name": ""
+        },
+        {"tag": "link",
+         "user_messages": ["link of product", "link", "product link", "link product", "show link"],
+         "responses": [""],
+         "property_name": ""
+        },
+        {"tag": "page",
+         "user_messages": ["next page", "change page"],
+         "responses": [""],
+         "property_name": ""
+        },
+        {"tag": "end",
+         "user_messages": ["end", "finish search", "complete search", "finish", "complete", "search another product"],
+         "responses": [""],
+         "property_name": ""
+        }
+	]
+}
